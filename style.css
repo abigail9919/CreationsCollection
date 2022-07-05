@@ -1,0 +1,23 @@
+header {
+  position: relative;
+  text-align: center;
+  font-family: 'Berkshire Swash';
+  font-size: x-large;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+nav {
+  position: relative;
+  text-align: center;
+  font-size: x-large;
+  top: -20px;
+}
+a {
+  text-decoration: none;
+  font-family: 'Berkshire Swash';
+  color: black;
+  padding: 50px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
