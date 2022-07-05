@@ -6,12 +6,14 @@ header {
   text-decoration: underline;
   text-decoration-thickness: 2px;
   color: white;
+  top: 50%;
 }
 nav {
   position: relative;
   text-align: center;
   font-size: x-large;
   top: -20px;
+  top: 50%;
 }
 a {
   text-decoration: none;
