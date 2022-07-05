@@ -1,3 +1,6 @@
+body {
+  overflow-y: hidden;
+}
 header {
   position: relative;
   text-align: center;
@@ -26,6 +29,7 @@ nav a:hover {
 }
 .background-img {
   index: 0;
-  background-size: cover;
+  width: 100%;
+  height: auto;
   background-repeat: no-repeat;
 }
