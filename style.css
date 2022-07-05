@@ -1,5 +1,6 @@
 body {
   overflow-y: hidden;
+  overflow-x: hidden;
 }
 header {
   position: relative;
@@ -33,4 +34,5 @@ nav a:hover {
   width: 100%;
   height: auto;
   background-repeat: no-repeat;
+  background-size: cover;
 }
