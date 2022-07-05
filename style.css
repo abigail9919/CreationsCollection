@@ -26,4 +26,6 @@ nav a:hover {
 }
 .background-img {
   index: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
