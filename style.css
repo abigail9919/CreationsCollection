@@ -66,3 +66,8 @@ article {
   justify-content: space-evenly;
   width: 80%;
 }
+article img {
+  width: 200px;
+  height: auto;
+  z-index: 2;
+}
