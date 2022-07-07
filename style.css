@@ -64,7 +64,7 @@ article {
   right: 0px;
   justify-content: space-evenly;
   width: 80%;
-  height: auto;
+  height: 100%;
 }
 article img {
   width: 200px;
