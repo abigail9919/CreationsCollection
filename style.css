@@ -60,7 +60,9 @@ article {
   margin-right: auto;
   z-index: 1;
   background-color: green;
-  top: 40%;
+  top: 45%;
+  left: 0px;
+  right: 0px;
   justify-content: space-evenly;
-  
+  width: 80%;
 }
