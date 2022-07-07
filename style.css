@@ -61,6 +61,6 @@ article {
   z-index: 1;
   background-color: green;
   top: 40%;
-  justify-content: center;
+  justify-content: space-evenly;
   
 }
